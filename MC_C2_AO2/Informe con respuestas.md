@@ -1,4 +1,5 @@
 # Informe con respuestas
+**Marcos J. Demichelis - marcosdemichelis@mi.unc.edu.ar**
 
 ## Respuestas
 ### ●	¿Qué palabras aparecen en el top 10 de la Secuencia A del Ejercicio 2 pero desaparecen en la Secuencia B? ¿Por qué desaparecen?
