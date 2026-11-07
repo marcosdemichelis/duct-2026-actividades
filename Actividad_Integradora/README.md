@@ -11,7 +11,7 @@ contabilizarlas y generar un gráfico de barras con las 10 más frecuentes.
 ## Instalación
 
 ```bash
-git clone falta link
+git clone https://github.com/marcosdemichelis/duct-2026-actividades/tree/main/Actividad_Integradora
 cd Actividad_Integradora
 python -m venv venv
 source venv/bin/activate    # en Windows: venv\Scripts\activate
